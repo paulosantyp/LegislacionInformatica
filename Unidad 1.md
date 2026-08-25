@@ -1,0 +1,2 @@
+## Actividad 1.1
+La legislacion informatica me va a ayudar a protegerem y desempeñar mis deberes como ingeniero de manera correcta sin romprer ninguna ley o reglamento que me afecte o afecte a clientes o terceros, tambien me va ayudar a comprender los derechos de el consumidor como proteger los datos y derechos en entornos virtuales.
