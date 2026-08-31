@@ -24,3 +24,18 @@ Estados Unidos no cuenta con un único instituto autónomo que concentre ambos t
 - **Acceso a la información pública:** Se rige por la Ley de Libertad de Información (FOIA, por sus siglas en inglés). Cada agencia federal estadounidense gestiona sus propias solicitudes de información y los desacuerdos se resuelven directamente en los tribunales federales, sin un órgano garante autónomo único como el INAI.
 
 - **Protección de datos y privacidad:** No existe una ley federal única de protección de datos personales para todos los sectores. La **Comisión Federal de Comercio (FTC)** regula y sanciona las prácticas comerciales engañosas y las fallas de privacidad en el sector privado, mientras que agencias específicas cuidan los datos gubernamentales bajo la Ley de Privacidad
+
+## Actividad 1.3
+
+
+Artículo 6° - Acceso a la información
+Reconoce el derecho a la información pública y, en su apartado A, los principios de protección de datos personales. Es la raíz constitucional de toda la legislación de datos en México.
+
+Artículo 16 - Protección de datos personales
+Establece que toda persona tiene derecho a la protección de sus datos personales, y a acceder, rectificar y cancelar los mismos, asi como a manifestar su oposición: los derechos ARCO.
+
+Artículo 7º - Libertad de expresión y difusión
+Aplica a contenidos digitales y plataformas. Marca el limite entre moderar contenido y censurar, un tema central para sistemas automatizados de filtrado.
+
+Artículo 1º - Derechos humanos y no discriminación
+Prohíbe toda discriminación motivada por origen étnico, género, edad, discapacidad o condición social. Es la base para reclamar por discriminación algoritmica.
