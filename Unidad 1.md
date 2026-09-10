@@ -42,7 +42,7 @@ Prohíbe toda discriminación motivada por origen étnico, género, edad, discap
 
 ## Actividad 1.4
 
-# Propuestas de Regulación de Inteligencia Artificial
+### Propuestas de Regulación de Inteligencia Artificial
 
 ---
 
@@ -77,3 +77,5 @@ Prohíbe toda discriminación motivada por origen étnico, género, edad, discap
 ### 8. Responsabilidad de la IA
 * **Definición:** Determinación de la cadena de culpabilidad jurídica y civil (desarrollador, empresa que despliega el modelo o usuario final) ante daños causados por decisiones tomadas por un algoritmo.
 * **Por qué regular:** Elimina el vacío legal de la "caja negra"; asegura que las víctimas de accidentes (como choques de vehículos autónomos o despidos discriminatorios) tengan derecho a indemnizaciones claras y responsables directos ante la ley.
+
+
